@@ -1,0 +1,13 @@
+.tab-head{
+    display: flex;
+}
+.tab-head > div{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.tab-contenu{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
